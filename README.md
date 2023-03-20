@@ -1,5 +1,5 @@
 # ExempleSpringJWTFilter
-========================================
+===============
 Exemple d'un projet spring boot qui utilise un Filter JWT pour l'authentification via spring security.
 
 
